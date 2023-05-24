@@ -1,0 +1,12 @@
+.header{
+    width:100%;
+    height:200px;
+    background:orange
+}
+
+.left-section{
+    width:200px;
+    float:left;
+    height:400px;
+background:rebeccapurple
+}

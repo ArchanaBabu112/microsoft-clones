@@ -1,0 +1,45 @@
+button{
+  background:rosybrown;
+  
+  color:rgb(71, 13, 13)
+}
+#para1{
+    color:rgb(19, 7, 13);
+
+}
+#para2{
+    color:rgb(135, 113, 156)
+}
+
+.para3{
+color:chocolate;
+background:royalblue
+}
+.outer-box{
+    width:300px;
+    height:200px;
+    background:rgb(12, 12, 63);
+margin-left:5 0px;
+margin-right:20px;
+margin-bottom:10px;
+padding-left:150px;
+padding-top:10px;
+padding-bottom:10px;
+border-color:yellow;
+border:5px solid;
+
+}
+.White{
+    color:rgb(202, 163, 86)
+}
+.box{
+    margin-left: 100px;
+    padding-left:50px
+}
+
+.inner-div{margin:10px;
+background:violet;
+width:200px;
+height:100px;
+
+}

@@ -1,0 +1,86 @@
+.sub{
+    background-color: rgb(200, 0, 0);
+    border:none;
+    height: 27px;
+    width:100px;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    border-color: rgb(210,0,0);
+border-style: solid;
+
+}
+.sub:hover{
+    background:rgb(175, 37, 37);
+    
+}
+.join{
+    background-color:rgb(93, 93, 232);
+    border:none;
+    overflow: hidden;
+    border-width:1px;
+    height:25px;
+    width:60px;
+    color:white;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size:14px;
+    box-shadow: 7px 7px 7px rgb(88, 85, 85);
+    
+}
+.tweet{
+    background-color:rgb(71, 71, 237);
+    overflow: hidden;
+    border-width:0px;
+    height:25px;
+    width:150px;
+    color:white;
+    border-radius: 15px;
+    
+
+    cursor: pointer;
+    font-size:14px;
+ 
+}
+.tweet:hover{
+    transition: box-shadow .15s;
+    box-shadow: 10px 10px 10px rgb(199, 195, 195);
+    background:rgb(43, 48, 186);
+    background-color:rgb(56, 68, 237); 
+background-image: -moz-radial-gradient(Safari 1  );}
+
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color:rgb(227,65,64);
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+
+
+}
+.span{
+ 
+}
+.span:hover{
+    cursor:pointer;
+    text-decoration-line: underline;
+}
+.span{
+    margin-left:5px;
+
+}
+.image{
+   width:300px;
+
+   object-fit:contain;
+   border-color:black;
+   border-style:solid;
+   object-position:left;
+    border-width:1px;
+}
+
+
+

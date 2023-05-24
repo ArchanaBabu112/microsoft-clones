@@ -1,0 +1,419 @@
+.logo{
+    width: 100px;
+    height: 30px;
+    object-fit: contain;
+    margin-top:9px
+}
+
+
+.head-part{
+    display:grid;
+    grid-template-columns: 90px 1fr 100px 1fr;
+    vertical-align: top;
+    
+}
+
+.main-head{
+    display:grid;
+    grid-template-columns:110px 90px 90px 90px 90px 100px ;
+font-size:19px;
+align-items: center;
+color:rgb(35, 35, 188);
+margin-left:40px;
+text-decoration: underline;
+
+
+
+}
+.container{
+    display:grid;
+    grid-template-columns: 100px 100px;
+}
+.sign-up{
+    display: grid;
+    grid-template-columns: 150px 90px 100px 90px ;
+    font-size:14px;
+   margin-top:-1px
+    
+}
+.main-body-image{
+    width: 1457px;
+    height: 650px;
+    object-fit: contain;
+    margin-top: -86px;
+    position:relative;
+    
+}
+
+.main-img-writing{
+    position: absolute;   
+     bottom: 360px;
+    left: 135px;
+    font-size: 16px;
+    font-family: sans-serif;
+    
+}
+.btn{
+    height: 39px;
+    width: 150px;
+    color: white;
+    border-radius: 2px;
+    font-size: 16px;
+     background-color:#0067b8;
+    overflow: hidden;
+    border-width:0px;
+    
+}
+.btn:hover{
+    opacity:0.9;
+    cursor: pointer;}
+    
+    .sentence{
+        font-size: 15px; 
+    color:rgb(47, 46, 46);
+    justify-content: space-between;
+}
+
+.logo-defn{
+    font-size:17px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.windows{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    text-decoration: underline;
+}
+.logo-defn:hover{
+cursor: pointer;
+}
+.image-content-1,
+.image-content-2,
+.image-content-3,
+.image-content-4
+{
+    width: 300px;
+
+
+}
+.para1,
+.para2,
+.para3,
+.para4{
+font-size:17px;
+display:inline-block;
+width:300px
+
+}
+
+.text1,
+.text2,
+.text3,
+.text4{
+font-size:25px;
+font-weight: 500;
+width:300px
+
+}
+.contents{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+
+.contents{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+   .image-content-1,
+   .image-content-2,
+   .image-content-3,
+   .image-content-4{
+    display: inline-block;
+    width:300px
+   
+   }
+
+.click{
+    color:#0067b8;
+    font-size:17px;
+    font-weight:bold;
+}
+.click:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.adv{
+    width: 1338px;
+    margin-left: 111px;
+    position: relative;
+}
+.center{
+    position:absolute;
+    
+    right: 100px;
+
+
+}
+.btn2{
+    background-color: #0067b8;
+    color:antiquewhite;
+    height:37px;
+    border-radius:2px;
+    border:none;
+}
+
+.business-img1,
+.business-img2,
+.business-img3,
+.business-img4
+{
+    width :290px;
+}
+.business-h1, 
+.business-h2,
+.business-h3,
+.business-h4{
+width:290px;
+font-weight: 500;
+color:rgb(6, 3, 3);
+margin-bottom:15px;
+margin-top:15px;
+
+}
+.business-para1,
+.business-para2,
+.business-para3,
+.business-para4{
+width:290px;
+font-size:17px
+
+}   
+.business1{
+display:inline-block;
+margin-left:70px;
+vertical-align: top;
+}
+.business2{
+display: inline-block;
+margin-left:20px;
+vertical-align: top;
+}
+.business3{
+display:inline-block;
+margin-left:20px;
+vertical-align: top;
+}
+.business4{
+display: inline-block;
+margin-left:20px;
+vertical-align: top;
+}
+
+.business{
+padding-top: 77px;
+margin-left: 86px;
+margin-top: 100px;
+}
+.main-area{
+margin-top: 20px;
+}
+.business-head{
+
+font-size: 38px;
+font-weight: 500;
+margin-left: 69px;
+margin-bottom:100px
+}
+.main-pic2{
+width:1240px;
+margin-left: 75px;
+}
+.click{
+color:#0067b8;
+margin-top:25px;
+font-weight:550;
+}
+
+.btn3{
+    background-color: #0067b8;
+    color:white;
+    width:50px;
+    width: 180px;
+    height: 34px;
+    border-radius: 2px;
+    border-width: 1px;
+    border: none;
+  
+}
+.sent{
+    font-size: 25px;
+    font-weight: 550;
+    margin-bottom: 10px;
+
+}
+
+.facebook{
+    height: 30px;
+    margin-left:15px;
+    margin-bottom: -8px;
+}
+
+.twitter{
+    height: 30px;
+    margin-left:8px;
+    margin-bottom: -9px;
+}
+.youtube{
+    height: 30px;
+    margin-left:10px;
+    margin-bottom: -10px;
+}
+.follow{
+    display:inline-block;
+    font-size:17px;
+    margin-top:20px;
+    margin-bottom: -8px;
+    margin-left: 168px;
+    font-weight: 100;
+}
+.link{
+
+    margin-top: 100px;
+
+}
+.back{
+    margin-left: 640px;
+    margin-top: 113px;
+    border: none;
+    width: 141px;
+    height: 37px;
+    border-radius: 2px;
+    font-size: 15px;
+    font-weight: 300;
+}
+.grid{
+    display:grid;
+    grid-template-columns:650px 1fr;
+}
+
+.facebook:hover{
+    cursor: pointer;
+}
+.twitter:hover{
+    cursor: pointer;
+}
+.youtube:hover{
+    cursor: pointer;}
+
+.l1,
+.l2,
+.l3,
+.l4,
+.l5,
+.l6{
+    display:inline-block;
+    margin-left:100px;
+    vertical-align: top;
+    color: #616161
+}
+
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6{font-weight:1px;
+    font-size: 15px;
+padding-bottom:3px;
+transition:tranform 0.3s; 
+display:inline-block;
+list-style-type:none;
+
+
+}
+section{
+    background-color:rgb(243, 239, 239);
+    margin-top:100px;
+    padding-top:50px;
+   
+}
+.p1,
+.p2,
+.p3,
+.p4,
+.p5,
+.p6{
+    margin-left: -1px;
+    padding-bottom: 14px;
+    color: #616161
+}
+.div1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+   
+}
+
+.div2:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.div3:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.div4:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.div5:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.div6:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.footer{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+margin-left: 100px;
+margin-top:100px;
+color:#616161;
+column-gap: 25px;
+}
+.footer:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.main-head p{
+    cursor: pointer;
+}
+
+
+.microsoft{
+    cursor: pointer;
+}
+.headings:hover{
+    cursor: pointer;
+}
+.main-head:hover{
+    cursor: pointer;
+}
+.main-head p,
+.sign-up p{
+    cursor: pointer;
+    z-index: 100;
+    
+    font-size: 19px;
+    font-weight:500;
+    margin-top:12px
+}
+.maun-head p{
+    text-decoration: underline;
+}
+.contents{
+    margin-top:60px
+}
